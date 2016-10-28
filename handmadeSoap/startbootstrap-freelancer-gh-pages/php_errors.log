@@ -1,0 +1,36 @@
+[26-Oct-2016 03:17:00 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 30
+[26-Oct-2016 03:22:07 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 8
+[26-Oct-2016 03:24:42 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 8
+[26-Oct-2016 03:28:25 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 4
+[26-Oct-2016 03:48:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'contactInfo' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 14
+[26-Oct-2016 03:48:11 UTC] PHP Stack trace:
+[26-Oct-2016 03:48:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:0
+[26-Oct-2016 03:48:11 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:14
+[26-Oct-2016 03:48:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'contactInfo' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 14
+[26-Oct-2016 03:48:53 UTC] PHP Stack trace:
+[26-Oct-2016 03:48:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:0
+[26-Oct-2016 03:48:53 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:14
+[26-Oct-2016 03:49:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'contactInfo' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 14
+[26-Oct-2016 03:49:52 UTC] PHP Stack trace:
+[26-Oct-2016 03:49:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:0
+[26-Oct-2016 03:49:52 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:14
+[26-Oct-2016 03:51:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'contactInfo' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 14
+[26-Oct-2016 03:51:16 UTC] PHP Stack trace:
+[26-Oct-2016 03:51:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:0
+[26-Oct-2016 03:51:16 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:14
+[26-Oct-2016 03:58:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'contactInfo' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 14
+[26-Oct-2016 03:58:20 UTC] PHP Stack trace:
+[26-Oct-2016 03:58:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:0
+[26-Oct-2016 03:58:20 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:14
+[26-Oct-2016 03:58:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'contactInfo' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 14
+[26-Oct-2016 03:58:39 UTC] PHP Stack trace:
+[26-Oct-2016 03:58:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:0
+[26-Oct-2016 03:58:39 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:14
+[26-Oct-2016 03:58:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'contactInfo' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 14
+[26-Oct-2016 03:58:53 UTC] PHP Stack trace:
+[26-Oct-2016 03:58:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:0
+[26-Oct-2016 03:58:53 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:14
+[26-Oct-2016 04:02:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'contactInfo' in /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php on line 14
+[26-Oct-2016 04:02:04 UTC] PHP Stack trace:
+[26-Oct-2016 04:02:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:0
+[26-Oct-2016 04:02:04 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/handmadeSoap/startbootstrap-freelancer-gh-pages/mail/contact_me.php:14
